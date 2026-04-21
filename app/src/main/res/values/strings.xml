@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Liubychenko_36bd_comp</string>
+
+    <string name="login_title">Log In</string>
+    <string name="login_subtitle">Please, enter your login details below</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="or">OR</string>
+    <string name="yahoo">Yahoo!</string>
+    <string name="google">Google</string>
+</resources>
